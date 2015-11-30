@@ -1,7 +1,7 @@
 name: Steve Drury
 favicon: null
-layout_spectrum: 0.9779526733327657
-typography_spectrum: 0.3236778536811471
+layout_spectrum: 1
+typography_spectrum: 0.26491
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6842384489718825
-  lightness: 0.10943951294757426
-  saturation: 0.9154531210660934
-  rhythmicContrast: 0.06754122162237763
+    - '#000000'
+    - '#ffa93a'
+    - '#8f2d00'
+    - '#b17428'
+    - '#fdf9a9'
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
